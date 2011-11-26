@@ -1,6 +1,15 @@
 
 Example implementation of OpenTransactions as e-wallet (public or 1-user-private)
 
+This is very pre-alpha code!!! Full of bugs and things to fix! 
+Use ONLY for proof of concept that OpenTransactions can be 
+in fact used from PHP application working as form of e-wallet.
+
+
+Files are being moved to the repository now.
+Check back in up to 2 days.
+
+
 See:
 http://myot.otg
 
